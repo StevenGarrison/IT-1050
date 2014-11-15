@@ -1,0 +1,30 @@
+C:\Asus WebStorage\danbingman@gmail.com\MySyncFolder\Visual Studio\IT 1050\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Asus WebStorage\danbingman@gmail.com\MySyncFolder\Visual Studio\IT 1050\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Asus WebStorage\danbingman@gmail.com\MySyncFolder\Visual Studio\IT 1050\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Asus WebStorage\danbingman@gmail.com\MySyncFolder\Visual Studio\IT 1050\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+C:\Asus WebStorage\danbingman@gmail.com\MySyncFolder\Visual Studio\IT 1050\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Asus WebStorage\danbingman@gmail.com\MySyncFolder\Visual Studio\IT 1050\Lab4\Lab4\obj\Debug\Lab4.pdb
+E:\Lab4\Lab4\bin\Debug\Lab4.exe.config
+E:\Lab4\Lab4\obj\Debug\Lab4.exe
+E:\Lab4\Lab4\obj\Debug\Lab4.pdb
+E:\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+E:\Lab4\Lab4\bin\Debug\Lab4.exe
+E:\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Dan\Dropbox\Visual Studio\IT 1050\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Dan\Dropbox\Visual Studio\IT 1050\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\Dan\Dropbox\Visual Studio\IT 1050\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\Dan\Dropbox\Visual Studio\IT 1050\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\Dan\Dropbox\Visual Studio\IT 1050\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Dan\Dropbox\Visual Studio\IT 1050\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+C:\Users\Bingman\Dropbox\Visual Studio\IT 1050\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Bingman\Dropbox\Visual Studio\IT 1050\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\Bingman\Dropbox\Visual Studio\IT 1050\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\Bingman\Dropbox\Visual Studio\IT 1050\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\Bingman\Dropbox\Visual Studio\IT 1050\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Bingman\Dropbox\Visual Studio\IT 1050\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Dropbox\Visual Studio\IT 1050\Lab4 - Copy\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Dan\Dropbox\Visual Studio\IT 1050\Lab4 - Copy\Lab4\obj\Debug\Lab4.exe
+C:\Users\Dan\Dropbox\Visual Studio\IT 1050\Lab4 - Copy\Lab4\obj\Debug\Lab4.pdb
+C:\Users\Dan\Dropbox\Visual Studio\IT 1050\Lab4 - Copy\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Dropbox\Visual Studio\IT 1050\Lab4 - Copy\Lab4\bin\Debug\Lab4.exe
+C:\Users\Dan\Dropbox\Visual Studio\IT 1050\Lab4 - Copy\Lab4\bin\Debug\Lab4.pdb

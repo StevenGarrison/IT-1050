@@ -1,0 +1,2 @@
+C:\Asus WebStorage\danbingman@gmail.com\MySyncFolder\Visual Studio\IT 1050\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Dan\Dropbox\Visual Studio\IT 1050\Lab4\Lab4\bin\Debug\Lab4.exe.config
